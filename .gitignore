@@ -13,3 +13,4 @@
 *.ivf
 *.obu
 *.yuv
+build-rpi5-v3dv-*/
